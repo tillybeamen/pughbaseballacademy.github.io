@@ -1,0 +1,65 @@
+/* body {
+background-color: #f8f9fa;
+color: #212529;
+} */
+
+.profile-pic {
+height: 140px;
+width: 160px;
+}
+
+.brandon {
+height: 130px;
+width: 90px;
+}
+
+
+
+
+.hawk {
+height: 110px;
+width: 110px;
+}
+
+.ben {
+height: 140px;
+width: 110px;
+}
+
+
+body.dark-mode {
+background-color: #212529;
+color: #f8f9fa;
+}
+
+/* .container img {
+height: 140px;
+width: 140px;
+} */
+
+.container > h1,
+h3,
+img {
+text-align: center;
+}
+
+.mentors {
+background-color: rgb(83, 73, 93);
+}
+
+a {
+text-decoration: none;
+}
+
+.card-body {
+max-height: 410px;
+overflow-y: auto;
+}
+
+
+
+@media (min-width: 768px) {
+.news-input {
+width: 50%;
+}
+}
